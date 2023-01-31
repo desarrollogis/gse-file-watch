@@ -1,0 +1,8 @@
+{
+  "name": "gse-file-watch",
+  "description": "gse-file-watch",
+  "uuid": "gse-file-watch@desarrollogis.com",
+  "shell-version": [
+    "42"
+  ]
+}

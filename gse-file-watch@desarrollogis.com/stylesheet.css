@@ -1,0 +1,14 @@
+/* Add your custom extension styling here */
+.box-layout {
+    min-width: 10em;
+    padding: 1em;
+    border-radius: 0.5em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+.label-filename {
+    font-size: 2em !important;
+}
+.label-content {
+    font-size: 1em !important;
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="com.desarrollogis.gse-file-watch" path="/com/desarrollogis/gse-file-watch/">
+    <!-- See also: https://docs.gtk.org/glib/gvariant-format-strings.html -->
+    <key name="x" type="n">
+      <default>500</default>
+    </key>
+    <key name="y" type="n">
+      <default>500</default>
+    </key>
+  </schema>
+</schemalist>
